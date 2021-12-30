@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/my-first-gatsby-site",
   siteMetadata: {
     siteUrl: "https://myfirstgatsbysite00346.gatsbyjs.io/",
     title: "My Gatsby Site",
